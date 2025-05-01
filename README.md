@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Alisha Qureshi
-**📍 Hyderabad-based Frontend Developer | MERN Stack Enthusiast**
+**📍 lahore-based Frontend Developer | MERN Stack Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:alishaqureshi369@gmail.com)
@@ -21,8 +21,8 @@
 
 ## 🎓 Academic Journey
 - **Diploma in Software Engineering**  
-  Aptech Computer Education, Defence Center, Hyderabad  
-  _(Python Specialization)_
+  Aptech Computer Education, Defence Center  
+  _(reactjs)_
 
 ## 💼 Professional Experience
 **Frontend Developer Intern** @ Imagin Center IT Solutions  
